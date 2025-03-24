@@ -8,6 +8,6 @@ function getRndInteger(min, max) {
 
 $(".bubbles i").each(function(i, el) {
     $(el).css({
-        "animation-duration": `calc(50s / ${getRndInteger(10, 30)})`
+        "animation-duration": `calc(75s / ${getRndInteger(10, 30)})`
     })
 })
