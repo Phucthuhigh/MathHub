@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div class="main">
-        <div class="bubbles transition-all opacity-0 duration-[1.5s] blur-3xl">
+        <div class="bubbles transition-all opacity-0 duration-[3s] blur-3xl">
           <i class="fa-solid fa-xmark"></i>
           <i class="fa-solid fa-plus"></i>
           <i class="fa-solid fa-minus"></i>
